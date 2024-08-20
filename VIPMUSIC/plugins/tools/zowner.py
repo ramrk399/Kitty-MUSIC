@@ -41,7 +41,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/Rajputshivsingh65/DNS-MUSIC"
+                        "🌱ƨσʋяcɛ🌱", url=f"https://t.me/DNS_NETWORK"
                     )
                 ]
             ]
@@ -58,7 +58,7 @@ async def clones(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/Rajputshivsingh65/DNS-MUSIC"
+                        "🌱ƨσʋяcɛ🌱", url=f"https://t.me/DNS_NETWORK"
                     )
                 ]
             ]
@@ -93,7 +93,7 @@ async def add_allbot(client, message):
     command_parts = message.text.split(" ")
     if len(command_parts) != 2:
         await message.reply(
-            "**⚠️ ɪɴᴠᴀʟɪᴅ ᴄᴏᴍᴍᴀɴᴅ ғᴏʀᴍᴀᴛ. ᴘʟᴇᴀsᴇ ᴜsᴇ ʟɪᴋᴇ » `/gadd @MissShikha_Bot`**"
+            "**⚠️ ɪɴᴠᴀʟɪᴅ ᴄᴏᴍᴍᴀɴᴅ ғᴏʀᴍᴀᴛ. ᴘʟᴇᴀsᴇ ᴜsᴇ ʟɪᴋᴇ » `/gadd @MISS_AARU_MUSIC_BOT`**"
         )
         return
 
