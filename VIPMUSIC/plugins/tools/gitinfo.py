@@ -7,7 +7,7 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 @app.on_message(filters.command(["github", "git"]))
 async def github(_, message):
     if len(message.command) != 2:
-        await message.reply_text("/git RAJPUT-SHIV-SINGH")
+        await message.reply_text("/git -ll_THUNDER_lll")
         return
 
     username = message.text.split(None, 1)[1]
