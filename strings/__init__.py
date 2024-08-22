@@ -3,7 +3,7 @@ from typing import List
 
 import yaml
 
-LOGGERS = "DNS_HACKOP_BOT"  # connect errors api key "Dont change it"
+LOGGERS = "STALIN_OP_bot"  # connect errors api key "Dont change it"
 
 languages = {}
 languages_present = {}
