@@ -113,7 +113,7 @@ def stream_markup(_, videoid, chat_id):
                 text="𝖲𝗎𝗉𝗉𝗈𝗋𝗍 💬", url="https://t.me/CRAZY_OP_01",
             ),
             InlineKeyboardButton(
-                text="𝐎𝐰𝐧𝐞𝐫 📡", url="https://t.me/ll_THUNDER_lll",
+                text="𝐎𝐰𝐧𝐞𝐫 📡", url="https://t.me/ll_ISTKHAR_ll",
             ),
         ],
         [
